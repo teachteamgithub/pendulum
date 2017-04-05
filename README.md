@@ -1,3 +1,11 @@
+# PENDULUM educational game platform
+## next changes in the project structure
+- change karma with jest+enzime (easier to mock components).
+- setup redux easier than the inital setup.
+- create redux sample implementation
+    - create a list of games that you can add in cart.
+    - create a cart component  
+    
 # React Redux Starter Kit
  
 This starter kit is designed to get you up and running with a bunch of awesome new front-end technologies, all on top of a configurable, feature-rich webpack build system that's already setup to provide hot reloading, CSS preprocessing with Sass, unit testing, code coverage reports, bundle splitting, and more.
